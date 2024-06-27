@@ -11,7 +11,7 @@ const schema = yup.object().shape({
 });
 
 const Contact = () => {
-  const { theme } = useContext(ThemeContext); // Access theme context
+  const { theme } = useContext(ThemeContext); 
   const { register, handleSubmit, formState: { errors } } = useForm({
     resolver: yupResolver(schema),
   });

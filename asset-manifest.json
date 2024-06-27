@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Myproject/static/css/main.cd1c30df.css",
+    "main.js": "/Myproject/static/js/main.f76b5782.js",
+    "static/media/slick.svg": "/Myproject/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Myproject/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Myproject/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Myproject/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Myproject/index.html",
+    "main.cd1c30df.css.map": "/Myproject/static/css/main.cd1c30df.css.map",
+    "main.f76b5782.js.map": "/Myproject/static/js/main.f76b5782.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd1c30df.css",
+    "static/js/main.f76b5782.js"
+  ]
+}

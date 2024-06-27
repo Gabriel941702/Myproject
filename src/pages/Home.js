@@ -13,7 +13,7 @@ const articles = [
   {
     title: "Discover the History",
     content: "Georgia is a country with a rich history that spans centuries. Explore ancient landmarks and learn about its fascinating past.",
-    link: "/src/pages/History"
+    link: "/History"
   },
   {
     title: "Experience the Culture",

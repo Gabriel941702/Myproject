@@ -8,6 +8,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+სამწუხაროდ 2 ფეიჯი არ ირთვება და რატომ ვერ გავიგე :(( 
+![image](https://github.com/Gabriel941702/Myproject/assets/84083522/2587ddc2-e871-4c46-9d6a-9bd79769ba24)
+![image](https://github.com/Gabriel941702/Myproject/assets/84083522/70292bf6-9390-417c-a661-f35614c5d54b)
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:

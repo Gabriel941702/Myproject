@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Gabriel941702.github.io/Georgia-Travel-Guide",
+  "homepage": "https://Gabriel941702.github.io/Myproject",
   "name": "georgia-travel-guide",
   "version": "0.1.0",
   "private": true,
@@ -30,6 +30,7 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
+  
     "extends": [
       "react-app",
       "react-app/jest"
